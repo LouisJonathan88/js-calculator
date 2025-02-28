@@ -12,7 +12,7 @@ Proyek ini dirancang untuk membantu pengguna melakukan perhitungan matematika da
 ## Cara Menggunakan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/LouisJonathan88/javascript-calculator.git
+   git clone https://github.com/LouisJonathan88/js-calculator.git
    
 ## Teknologi yang Digunakan
 - HTML: Struktur dasar kalkulator.
