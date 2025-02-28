@@ -13,6 +13,10 @@ Proyek ini dirancang untuk membantu pengguna melakukan perhitungan matematika da
 1. Clone repository ini:
    ```bash
    git clone https://github.com/LouisJonathan88/js-calculator.git
+2. Masuk ke direktori proyek:
+   ```bash
+   cd js-calculator
+3. Buka file index.html di browser Anda.
    
 ## Teknologi yang Digunakan
 - HTML: Struktur dasar kalkulator.
